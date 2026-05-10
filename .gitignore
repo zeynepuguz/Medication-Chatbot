@@ -45,11 +45,6 @@ gradio_cached_examples/
 # Evaluation outputs
 evaluation_results/
 
-# Generated images
-*.png
-*.jpg
-*.jpeg
-
 # PyTorch
 *.pt
 *.bin
