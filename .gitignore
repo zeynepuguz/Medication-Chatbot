@@ -1,0 +1,68 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Models
+models/
+*.safetensors
+*.ckpt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+temp/
+tmp/
+
+# Gradio temporary files
+gradio_cached_examples/
+
+# Evaluation outputs
+evaluation_results/
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+
+# PyTorch
+*.pt
+*.bin
+
+# TensorFlow
+*.h5
+
+# Pickle files
+*.pkl
+
+# CSV cache / processed large files
+*.parquet
+
+# Misc
+*.bak
+*.swp
